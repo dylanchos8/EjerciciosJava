@@ -1,0 +1,4 @@
+interface Dibujable {
+    void dibujar();
+}
+
